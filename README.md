@@ -5,13 +5,13 @@ I am currently in the fourth year of a technical institute specialising in compu
 #
 ### Languages and Frameworks
 <p align="left">
-<img src="img/flutter.svg" style="padding: 11px;" height="30">
-<img src="img/cSharp.svg" style="padding: 11px;" height="30">
-<img src="img/Dart.png" style="padding: 11px;" height="30">
-<img src="img/rust.svg" style="padding: 11px;" height="30">
-<img src="img/html.svg" style="padding: 11px;" height="30">
-<img src="img/css.svg" style="padding: 11px;" height="30">
-<img src="img/javascript.svg" style="padding: 11px;" height="30">
+<img src="img/flutter.svg" style="padding-right: 11px;" height="30">
+<img src="img/cSharp.svg" style="padding-right: 11px;" height="30">
+<img src="img/Dart.png" style="padding-right: 11px;" height="30">
+<img src="img/rust.svg" style="padding-right: 11px;" height="30">
+<img src="img/html.svg" style="padding-right: 11px;" height="30">
+<img src="img/css.svg" style="padding-right: 11px;" height="30">
+<img src="img/javascript.svg" style="padding-right: 11px;" height="30">
 <p>
 <!--
 **AresRebatto/AresRebatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
