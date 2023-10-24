@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# 👨‍💻[Ares Rebatto](https://github.com/AresRebatto)
+### Who Am I
+Hi. I am a 17-year-old Italian computer science student who is trying to develop as many skills as possible.
+I am currently in the fourth year of a technical institute specialising in computer science.
+### Languages and Frameworks
 <!--
 **AresRebatto/AresRebatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
