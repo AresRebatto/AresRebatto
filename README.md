@@ -4,7 +4,7 @@ Hi. I am a 17-year-old Italian computer science student who is trying to develop
 I am currently in the fourth year of a technical institute specialising in computer science.
 #
 ### Languages and Frameworks
-<div style="dispaly: flex;row-gap: 11px;">
+<div style="dispaly: flex;row-gap: 100px;">
 <img src="img/flutter.svg" style="padding-right: 11px;" height="30">
 <img src="img/cSharp.svg" style="padding-right: 11px;" height="30">
 <img src="img/Dart.png" style="padding-right: 11px;" height="30">
