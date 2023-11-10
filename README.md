@@ -3,7 +3,7 @@
 Hi. I am a 17-year-old Italian computer science student who is trying to develop as many skills as possible.
 I am currently in the fourth year of a technical institute specialising in computer science.
 #
-### Languages and Frameworks
+### 📖 Languages and Frameworks
 <div style="dispaly: flex;row-gap: 100px;">
 <img src="img/flutter.svg" style="padding-right: 11px;" height="30">
 <img src="img/cSharp.svg" style="padding-right: 11px;" height="30">
@@ -13,6 +13,17 @@ I am currently in the fourth year of a technical institute specialising in compu
 <img src="img/css.svg" style="padding-right: 11px;" height="30">
 <img src="img/javascript.svg" style="padding-right: 11px;" height="30">
 </div>
+
+#
+### 📬 How to reach me:
+- [**e-mail**](aresrebatt@gmail.com) 
+- [**Instagram**](https://www.instagram.com/ares_rebatto/)
+
+#
+### 🌱 I'm Currenty learning
+- [Rust](https://www.rust-lang.org/it)
+- [SQL]()
+- [Flutter](https://flutter.dev/)
 <!--
 **AresRebatto/AresRebatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
