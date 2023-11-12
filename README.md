@@ -16,7 +16,7 @@ I am currently in the fourth year of a technical institute specialising in compu
 
 #
 ### 📬 How to reach me:
-- [**e-mail**](aresrebatt@gmail.com) 
+- <a href="mailto:aresrebatt@gmail.com">**email**</a>
 - [**Instagram**](https://www.instagram.com/ares_rebatto/)
 
 #
