@@ -1,7 +1,9 @@
 # 👨‍💻[Ares Rebatto](https://github.com/AresRebatto)
 ### Who Am I
-Hi. I am a 18-year-old Italian computer science student who is trying to develop as many skills as possible.
-I am currently in the fourth year of a technical institute specialising in computer science.
+Hi. I am an 18-year-old Italian student attending the fifth year in a technical institute majoring in computer science.
+My goal right now is to develop as many skills as I can to consider myself a developer and computer scientist worthy of the name.
+
+If you would like, take a tour through my repositories to see some of my work and feel free to tell me what you think in private as well.
 #
 ### 📖 Languages and Frameworks
 <div style="dispaly: flex;row-gap: 100px;">
@@ -18,12 +20,13 @@ I am currently in the fourth year of a technical institute specialising in compu
 ### 📬 How to reach me:
 - <a href="mailto:aresrebatt@gmail.com">**email**</a>
 - [**Instagram**](https://www.instagram.com/ares_rebatto/)
+- [LinkedIn]()
 
 #
 ### 🌱 I'm Currenty learning
-- [Rust](https://www.rust-lang.org/it)
-- [SQL]()
-- [Flutter](https://flutter.dev/)
+- [C++](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
+- [ASP.NET](https://dotnet.microsoft.com/it-it/apps/aspnet)
+- [PostgreSQL](https://www.postgresql.org/)
 <!--
 **AresRebatto/AresRebatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
