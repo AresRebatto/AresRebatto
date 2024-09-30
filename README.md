@@ -20,7 +20,7 @@ If you would like, take a tour through my repositories to see some of my work an
 ### 📬 How to reach me:
 - <a href="mailto:aresrebatt@gmail.com">**email**</a>
 - [**Instagram**](https://www.instagram.com/ares_rebatto/)
-- [LinkedIn]()
+- [**LinkedIn**](https://www.linkedin.com/in/ares-rebatto-84833a271/)
 
 #
 ### 🌱 I'm Currenty learning
