@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi. I am an 18-year-old Italian student attending the fifth year in a technical institute majoring in computer science. My goal right now is to develop as many skills as I can to consider myself a developer and computer scientist worthy of the name.<br><br>If you would like, take a tour through my repositories to see some of my work and feel free to tell me what you think in private as well.
+👋 Hi! I'm an Italian university student currently studying Computer Systems and Network Security (SSRI) at Unimi.
+
+I'm passionate about the open source world and do my best to contribute whenever I can. I'm constantly working to improve my skills and learn something new every day.
+
+Feel free to explore my repositories — you'll find some of the projects I've been working on!
 
 
 ## 🌐 Socials:
